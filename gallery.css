@@ -1,0 +1,24 @@
+.page
+  {
+     width:1000px;
+     height:16500px;
+      border-style:groove;
+}
+
+.headerpart
+{
+  width:1280px;
+   height:313px;
+     border-style:groove;
+    background-image:url('images/LOGO1.jpg');
+	text-align: center;
+}
+
+header{
+font-size:24;
+font-family:'dokdo', cursive;
+text-align: center;
+}
+
+
+      

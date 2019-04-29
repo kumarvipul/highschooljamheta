@@ -1,0 +1,23 @@
+.page
+  {
+     width:1438px;
+     height:1387px;
+      border-style:groove;
+}
+
+.headerpart
+{
+  width:1280px;
+   height:313px;
+     border-style:groove;
+    background-image:url('images/LOGO1.jpg');
+	text-align: center;
+}
+.headerpart1
+{
+  width:1438px;
+   height:1387px;
+     border-style:groove;
+    background-image:url('images/MAN.jpg');
+background-repeat:no-repeat;
+}

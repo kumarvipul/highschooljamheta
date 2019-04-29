@@ -1,0 +1,54 @@
+.page
+{
+    
+     width:1398px;
+     height:3200px;
+ border-style:groove;
+
+  
+
+      
+}
+.headerpart
+{
+  width:1280px;
+   height:313px;
+     border-style:groove;
+    background-image:url('images/LOGO1.jpg');
+	text-align: center;
+}
+
+
+.bodypart
+{
+    width:1398px;
+    height:2000px;
+  
+    
+ margin-top:5px;
+
+   
+
+  
+}
+.bodypart .imagepart
+{
+ width:1398px;
+ height:766px;
+  
+
+background-image:url('images/FUND2.jpg');
+background-repeat:no-repeat;
+}
+.linkpart
+{
+    width:1260px;
+    height:766px;
+   margin-top:5px;
+background-image:url('images/FUND3.jpg');
+background-repeat:no-repeat;
+  
+}
+    
+
+

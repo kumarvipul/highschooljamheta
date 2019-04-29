@@ -1,0 +1,95 @@
+ .page
+  {
+     width:1280px;
+     height:1174px;
+      border-style:groove;
+}
+.headerpart
+{
+  width:1280px;
+   height:313px;
+     border-style:groove;
+    background-image:url('images/LOGO1.jpg');
+}
+.linkpart
+{
+    width:1275px;
+    height:20px;
+   margin-top:5px;
+  background-color:rgb(12,100,198);
+     border-style:groove;
+}
+    .linkpart a
+{
+   color:rgb(245,246,251);
+    text-decoration:none;
+}
+.linkpart a:hover
+{
+background-color:rgb(245,246,251);
+color:rgb(12,100,198);
+}
+
+
+
+.bodypart
+{
+    width:1280px;
+    height:400px;
+ border-style:groove;
+    
+  
+    
+ margin-top:5px;
+
+   
+
+  
+}
+.bodypart .imagepart
+{
+ width:500px;
+ height:400px;
+ border-style:groove;
+ 
+ 
+
+  
+
+background-image:url('images/skull.gif');
+background-repeat:no-repeat;
+display:inline-block;
+
+}
+.bodypart .newspart
+{
+width:740px;
+ height:400px;
+
+border-style:groove;
+background-image:url('images/descriptionn.jpg');
+
+
+float:right;
+  
+ border-style:groove;
+
+
+}
+.footerpart
+{
+    width:1280px;
+    height:406px;
+    
+  
+    
+ margin-top:5px;
+background-color:rgb(12,100,198);
+ border-style:groove;
+background-image:url('images/footer.jpg');
+    
+   
+
+  
+}
+
