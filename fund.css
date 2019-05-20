@@ -2,7 +2,7 @@
 {
     
      width:1398px;
-     height:3200px;
+     height:3370px;
  border-style:groove;
 
   
@@ -22,32 +22,21 @@
 .bodypart
 {
     width:1398px;
-    height:2000px;
+    height:2973px;
+margin-top:5px;
+
+ border-style:groove;
+background-image:url('images/fundd1.jpg');
+background-repeat:no-repeat;
+
   
     
- margin-top:5px;
+
 
    
 
   
-}
-.bodypart .imagepart
-{
- width:1398px;
- height:766px;
-  
 
-background-image:url('images/FUND2.jpg');
-background-repeat:no-repeat;
-}
-.linkpart
-{
-    width:1260px;
-    height:766px;
-   margin-top:5px;
-background-image:url('images/FUND3.jpg');
-background-repeat:no-repeat;
-  
 }
     
 

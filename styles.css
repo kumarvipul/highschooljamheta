@@ -1,7 +1,7 @@
  .page
   {
      width:1280px;
-     height:1174px;
+     height:1247px;
       border-style:groove;
 }
 .headerpart
@@ -56,7 +56,7 @@ color:rgb(12,100,198);
 
   
 
-background-image:url('images/skull.gif');
+background-image:url('images/haji.gif');
 background-repeat:no-repeat;
 display:inline-block;
 
@@ -79,7 +79,7 @@ float:right;
 .footerpart
 {
     width:1280px;
-    height:406px;
+    height:478px;
     
   
     
